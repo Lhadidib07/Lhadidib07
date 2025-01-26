@@ -1,12 +1,9 @@
-## Hi I'm LHadi  👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lhadidib07)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lhadidib07&layout=compact)
+## Hi I'm LHadi  👋 
+Étudiant en Master 1 Génie Logiciel spécialisé en Développement Web et Ingénierie Logicielle 
 
 <div align="center">
-  <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Lhadidib07&show_icons=true&theme=transparent"/>
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhadidib07&layout=compact&&langs_count=6"/>
+  <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Lhadidib07&show_icons=true&theme=transparent"/>
 </div>
 
 ### Top Technologies
@@ -19,4 +16,4 @@
 
 :mailbox: Contact 
 
-[![Mail Badge](https://img.shields.io/badge/-lhadi dib-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lhadi-dib@outlook.com)
+[![Mail Badge](https://img.shields.io/badge/-lhadi-dib-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lhadi-dib@outlook.com)
